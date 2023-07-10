@@ -4,7 +4,8 @@
   "description": "Repositório com resumo e aplicações dos conhecimentos do livro - ''Lógica de Programação e Algorítmos com JavaScript\" de Edécio Fernando lepsen",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+    
   },
   "keywords": [],
   "author": "",
