@@ -39,15 +39,15 @@ const outResposta = document.getElementById('outResposta');
 const verificaPrimo = () => {
   let divisores = 0;
 
-  for (i = 2; i <= inNumeroP.value; i++) {
+  for (let i = 1; i <= inNumeroP.value; i++) {
     if (inNumeroP.value % i == 0) {
       divisores++;
     }
   }
   if (divisores == 2) {
-    outResposta.textContent = inNumeroP.value + ' É primo!';
+    outResposta.textContent = inNumeroP.value + ' é primo!';
   } else {
-    outResposta.textContent = inNumeroP.value + ' Não é primo.';
+    outResposta.textContent = inNumeroP.value + ' não é primo.';
   }
 };
 
