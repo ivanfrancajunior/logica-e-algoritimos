@@ -15,15 +15,15 @@ enquanto programadores de sistemas.
 
 - Compreender oq é pedido:
 
-- Realizar deduções naconstrução do programa
+- Realizar deduções na construção do programa
 
 - Enumerar as etapas a serem realizadas
 
-- Analisar outras possibilidades desolução
+- Analisar outras possibilidades de solução
 
-- Ensinarao computador uma solução
+- Ensinar ao computador uma solução
 
-- Pensaremtodos os detalhes
+- Pensar em todos os detalhes
 
 - Entrada, processamento e saída
 
